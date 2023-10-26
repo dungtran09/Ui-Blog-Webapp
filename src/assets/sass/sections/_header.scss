@@ -1,0 +1,13 @@
+header {
+  background: var(--background-primary);
+}
+
+header .flex-wrapper {
+  display: none;
+}
+
+header .btn-group {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
